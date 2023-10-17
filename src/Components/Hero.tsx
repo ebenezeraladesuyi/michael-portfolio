@@ -18,7 +18,7 @@ const Hero = () => {
             >
               Hi,
             </span>{" "}
-            I'm Igbuku<br /> Michael Blessing
+            I'm Michael<br /> Blessing Igbuku
           </h1>
           <p>
              A creative, versatile, diligent, optimistic, innovative Graphics Designer.

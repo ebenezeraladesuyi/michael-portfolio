@@ -24,7 +24,11 @@ const About = () => {
           </Holding>
           <Holding>
             <h5>Email:</h5>
-            <span>michealquanvey619@yahoo.com</span>
+            <span>micheal.igbuku@infoccii.com</span>
+          </Holding>
+          <Holding>
+            <h5>Student Number:</h5>
+            <span>200596262</span>
           </Holding>
           <Holding>
             <h5>Mobile:</h5>
